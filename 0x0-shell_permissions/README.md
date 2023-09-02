@@ -1,1 +1,1 @@
-My first readme on betty
+This is my readme file
